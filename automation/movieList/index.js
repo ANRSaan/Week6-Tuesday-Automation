@@ -1,3 +1,4 @@
+
 document.querySelector("form").addEventListener("submit", addMovie);
 const message = document.querySelector('#message')
 
